@@ -1,8 +1,11 @@
+
 # AKL_Cycle_Parking
 
 To view the current pin map either download the KML above and open in the program of your choice or go to the following link to open on google maps https://www.google.com/maps/d/viewer?mid=1BAEW0OWRQGhfEn7RrLxvj0KWII5e7gp0&ll=-36.87075356725338%2C174.65671800964202&z=12
 
 ## How to add pins
+To help assist us reduce the likelihood of duplicate pins check to see if anyone else is working on the same area first by looking in the issues tab. If there is not a open issue please create one just letting everyone know what area your working on. If there is a open ticket with the same area your interested in then feel free to post a comment on the issue asking if they need a hand.
+
 To add pins do not change the KML above.
 
 Go To My Google Maps and create a new map.
