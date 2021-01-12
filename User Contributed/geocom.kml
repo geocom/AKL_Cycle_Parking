@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled layer</name>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>AUT</name>
+      <description><![CDATA[description: Includes wheel holder. May not fit all bikes<br>Fixture Count: 6<br>Allowed Use: Not Listed]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>Includes wheel holder. May not fit all bikes</value>
+        </Data>
+        <Data name="Fixture Count">
+          <value>6</value>
+        </Data>
+        <Data name="Allowed Use">
+          <value>Not Listed</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          174.7664824,-36.8525151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Deloitte Tower
+</name>
+      <description><![CDATA[description: Undercover Customer Use Only<br><br>Fixture Count: 2<br>Allowed Use: Customer Only]]></description>
+      <styleUrl>#icon-1899-0288D1</styleUrl>
+      <ExtendedData>
+        <Data name="description">
+          <value>Undercover Customer Use Only
+</value>
+        </Data>
+        <Data name="Fixture Count">
+          <value>2</value>
+        </Data>
+        <Data name="Allowed Use">
+          <value>Customer Only</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          174.7663022,-36.8462905,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
